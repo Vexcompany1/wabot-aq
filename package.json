@@ -1,5 +1,5 @@
 {
-  "name": "wabot-aq",
+  "name": "ベックス中村",
   "version": "2.5.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -24,7 +24,7 @@
   ],
   "homepage": "https://github.com/Nurutomo/wabot-aq",
   "author": {
-    "name": "Nurutomo"
+    "name": "Vex"
   },
   "repository": {
     "type": "git",
